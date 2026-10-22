@@ -1,0 +1,9 @@
+{
+  "mode": "v2v",
+  "prompt": "Continue the same camera movement without a cut as the owner walks behind the counter.",
+  "start_video": "https://example.com/source.mp4",
+  "duration": 15,
+  "resolution": "qhd",
+  "generate_audio": true,
+  "draft": false
+}

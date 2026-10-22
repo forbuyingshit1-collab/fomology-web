@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1450 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Case 05 — Surat VCD brothers</title>
+  <desc id="desc">โปสเตอร์ตัวอักษรสีแดง น้ำเงิน ดำ สำหรับแฟนตาซี VCD ภาคใต้</desc>
+  <rect width="1450" height="1080" fill="#f7f7f5"/>
+  <rect x="60" y="60" width="1330" height="960" fill="none" stroke="#17181b" stroke-width="4"/>
+  <rect x="60" y="60" width="520" height="30" fill="#ff3131"/>
+  <rect x="870" y="990" width="520" height="30" fill="#2e2bff"/>
+  <text x="120" y="245" fill="#17181b" font-family="Arial, sans-serif" font-size="54" letter-spacing="8">FLUX.3 CASE</text>
+  <text x="110" y="690" fill="#17181b" font-family="Arial Black, sans-serif" font-size="340">05</text>
+  <text x="780" y="470" fill="#ff3131" font-family="Arial, sans-serif" font-size="58">SURAT VCD</text>
+  <text x="785" y="555" fill="#17181b" font-family="Arial, sans-serif" font-size="42">IDENTITY · MOTION</text>
+  <text x="785" y="625" fill="#17181b" font-family="Arial, sans-serif" font-size="42">CONTINUATION</text>
+</svg>

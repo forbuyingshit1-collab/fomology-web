@@ -1,0 +1,38 @@
+{
+  "name": "fomology",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "preview": "serve out",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck && npm run test:course && npm run test:skill && npm run test:package && npm run build",
+    "validate:course": "node scripts/validate-course.mjs",
+    "validate:launch": "node scripts/validate-launch.mjs",
+    "check:links": "node scripts/validate-links.mjs",
+    "test:course": "node scripts/validate-course.mjs",
+    "test:skill": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s packages/create-flux3-video/tests -p 'test_*.py' -v",
+    "test:powershell": "powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -File packages/create-flux3-video/tests/test_flux3_video.ps1",
+    "test:package": "PYTHONDONTWRITEBYTECODE=1 python3 packages/create-flux3-video/tests/test_release_package.py",
+    "build:skill": "python3 scripts/build-skill-release.py"
+  },
+  "dependencies": {
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.5",
+    "serve": "^14.2.6",
+    "sharp": "^0.35.4",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  }
+}

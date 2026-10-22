@@ -1,0 +1,7 @@
+interface:
+  display_name: "Create FLUX.3 Video"
+  short_description: "Direct, validate, and safely generate FLUX.3 video locally"
+  brand_color: "#2E2BFF"
+  default_prompt: "Use $create-flux3-video to interview me for a filmable FLUX.3 brief, then return a prompt and validated payload without submitting unless I explicitly approve."
+policy:
+  allow_implicit_invocation: true

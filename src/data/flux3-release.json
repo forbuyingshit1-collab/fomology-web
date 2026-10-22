@@ -1,0 +1,20 @@
+{
+  "packageName": "create-flux3-video",
+  "version": "0.1.0-rc.1",
+  "status": "LOCAL_RELEASE_CANDIDATE",
+  "bflVerifiedAt": "2026-09-28",
+  "openaiVerifiedAt": "2026-09-28",
+  "resourcePath": "/resources/create-flux3-video/",
+  "localAssetPath": "/downloads/create-flux3-video-v0.1.0-rc.1.zip",
+  "localChecksumPath": "/downloads/create-flux3-video-v0.1.0-rc.1.zip.sha256",
+  "localSha256": "61d0259022588c54957270baa4885f51bd09c94581d9f0b3a33e84825e4901d5",
+  "publicRepositoryUrl": null,
+  "publicReleaseUrl": null,
+  "publicAssetUrl": null,
+  "publicSha256": null,
+  "paidSmokeTest": "DEFERRED_BY_OWNER",
+  "deployment": "DEPLOYED",
+  "deploymentUrl": "https://fomology.vercel.app/",
+  "deploymentId": "dpl_3QVKShDZAEBtxzWgPUcJgZ9kWU83",
+  "deployedAt": "2026-09-29T05:09:49Z"
+}

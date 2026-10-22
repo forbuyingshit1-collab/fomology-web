@@ -1,0 +1,7 @@
+{
+  "status": "Ready",
+  "result": {
+    "sample": "https://example.com/result.mp4",
+    "draft_cache": "https://example.com/draft-cache.bin"
+  }
+}

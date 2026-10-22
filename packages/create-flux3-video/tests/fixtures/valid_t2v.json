@@ -1,0 +1,10 @@
+{
+  "mode": "t2v",
+  "prompt": "Exactly one Thai café owner opens wooden shutters once and places exactly one iced coffee. Final image: drink foreground, owner behind.",
+  "aspect_ratio": "9:16",
+  "duration": 8,
+  "resolution": "hd",
+  "generate_audio": true,
+  "safety_tolerance": 2,
+  "draft": true
+}

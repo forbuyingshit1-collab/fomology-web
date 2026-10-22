@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Case 04 — Vertical story</title>
+  <desc id="desc">โปสเตอร์ตัวอักษรสีแดง น้ำเงิน ดำ สำหรับงานเล่าเรื่องแนวตั้ง</desc>
+  <rect width="1080" height="1350" fill="#17181b"/>
+  <rect x="72" y="72" width="936" height="1206" fill="none" stroke="#f7f7f5" stroke-width="3"/>
+  <rect x="72" y="72" width="38" height="420" fill="#ff3131"/>
+  <rect x="970" y="858" width="38" height="420" fill="#2e2bff"/>
+  <text x="150" y="300" fill="#f7f7f5" font-family="Arial, sans-serif" font-size="58" letter-spacing="8">FLUX.3 CASE</text>
+  <text x="145" y="670" fill="#f7f7f5" font-family="Arial Black, sans-serif" font-size="270">04</text>
+  <text x="150" y="800" fill="#ff3131" font-family="Arial, sans-serif" font-size="48">VERTICAL STORY</text>
+  <text x="150" y="900" fill="#f7f7f5" font-family="Arial, sans-serif" font-size="36">CLICK TO WATCH · AUDIO OFF UNTIL PLAY</text>
+</svg>

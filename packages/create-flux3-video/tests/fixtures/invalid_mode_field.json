@@ -1,0 +1,7 @@
+{
+  "mode": "t2v",
+  "prompt": "A valid prompt.",
+  "duration": 8,
+  "resolution": "hd",
+  "keyframes": ["https://example.com/start.jpg"]
+}

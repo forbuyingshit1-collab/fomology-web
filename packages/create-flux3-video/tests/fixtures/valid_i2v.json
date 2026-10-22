@@ -1,0 +1,10 @@
+{
+  "mode": "i2v",
+  "prompt": "The same subject turns toward the window while the curtain moves once.",
+  "keyframes": [[0, "https://example.com/start.jpg"], [8, "https://example.com/end.jpg"]],
+  "aspect_ratio": "9:21",
+  "duration": 8,
+  "resolution": "hd",
+  "generate_audio": true,
+  "draft": true
+}

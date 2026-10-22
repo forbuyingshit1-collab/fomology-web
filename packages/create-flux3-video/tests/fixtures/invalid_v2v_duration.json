@@ -1,0 +1,7 @@
+{
+  "mode": "v2v",
+  "prompt": "Continue without a cut.",
+  "start_video": "https://example.com/source.mp4",
+  "duration": 16,
+  "resolution": "hd"
+}
